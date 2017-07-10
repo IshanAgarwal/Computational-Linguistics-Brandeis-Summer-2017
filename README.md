@@ -14,8 +14,8 @@ Download and install Python 3.5 (32 bit)
 Download and install nltk (32 bit) (try https://pypi.python.org/pypi/nltk)
 
 Download nltk data, in particular wordnet. To do this you can use the interactive installer. Just run the following in python:
->>import nltk
->>nltk.download()
+import nltk
+nltk.download()
 
 Download and install Java 8 (64 bit) 
 
