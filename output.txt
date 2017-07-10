@@ -1,0 +1,101 @@
+facility$
+something designed and created to serve a particular function and to afford a particular convenience or service$
+work_animal$
+an animal trained for and used for heavy labor$
+beast_of_burden$
+an animal such as a donkey or ox or elephant used for transporting loads or doing other heavy work$
+draft_animal$
+an animal used for pulling heavy loads$
+pack_animal$
+an animal (such as a mule or burro or horse) used to carry loads$
+thoroughbred$
+a pedigreed animal of unmixed lineage; used especially of horses$
+pleurodont$
+an animal having teeth fused with the inner surface of the alveolar ridge without sockets$
+bunyavirus$
+an animal virus belonging to the family Bunyaviridae; can be used as a bioweapon$
+Ebola_virus$
+a filovirus that causes Ebola hemorrhagic fever; carried by animals; can be used as a bioweapon$
+Marburg_virus$
+a filovirus that causes Marburg disease; carried by animals; can be used as a bioweapon$
+variola_virus$
+the virus that causes smallpox in humans; can be used as a bioweapon$
+Bacillus_anthracis$
+a species of bacillus that causes anthrax in humans and in animals (cattle and swine and sheep and rabbits and mice and guinea pigs); can be used a bioweapon$
+Yersinia_pestis$
+a bacillus bacterium that causes the plague; aerosolized bacteria can be used as a bioweapon$
+Brucella$
+an aerobic Gram-negative coccobacillus that causes brucellosis; can be used as a bioweapon$
+clostridium_perfringens$
+anaerobic Gram-positive rod bacterium that produces epsilon toxin; can be used as a bioweapon$
+salmonella$
+rod-shaped Gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon$
+shigella$
+rod-shaped Gram-negative enterobacteria; some are pathogenic for warm-blooded animals; can be used as a bioweapon$
+vector$
+(genetics) a virus or other agent that is used to deliver DNA to a cell$
+cosmid$
+(genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments$
+acidophilus$
+a bacterium that is used to make yogurt and to supplement probiotics$
+intermediate_host$
+a host that is used by a parasite in the course of its life cycle$
+tetrahymena$
+relative of the paramecium; often used in genetics research$
+bladderwrack$
+a common rockweed used in preparing kelp and as manure$
+gudgeon$
+small slender European freshwater fish often used as bait by anglers$
+goldfish$
+small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes$
+killifish$
+small mostly marine warm-water carp-like schooling fishes; used as bait or aquarium fishes or in mosquito control$
+topminnow$
+small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control$
+sea_lamprey$
+large anadromous lamprey sometimes used as food; destructive of native fish fauna in the Great Lakes$
+thresher$
+large pelagic shark of warm seas with a whiplike tail used to round up small fish on which to feed$
+soupfin_shark$
+Pacific shark valued for its fins (used by Chinese in soup) and liver (rich in vitamin A)$
+Atlantic_spiny_dogfish$
+destructive dogfish of the Atlantic coastal waters of America and Europe; widely used in anatomy classes$
+grey_skate$
+common European skate used as food$
+goshawk$
+large hawk of Eurasia and North America used in falconry$
+peregrine$
+a widely distributed falcon formerly used in falconry$
+pigeon_hawk$
+small falcon of Europe and America having dark plumage with black-barred tail; used in falconry$
+Diapsida$
+used in former classifications to include all living reptiles except turtles; superseded by the two subclasses Lepidosauria and Archosauria$
+green_turtle$
+large tropical turtle with greenish flesh used for turtle soup$
+common_iguana$
+large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America$
+teju$
+large (to 3 feet) blackish yellow-banded South American lizard; raid henhouses; used as food$
+stegosaur$
+herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon$
+Mononychus_olecranus$
+a turkey-sized long-legged fossil 75 million years old found in the Gobi Desert having bird-like fused wrist bones and keeled breastbone and a long tail resembling a dinosaur's; short forelimbs end in a single claw instead of wings; classification as bird or dinosaur is in dispute$
+asp$
+cobra used by the Pharaohs as a symbol of their power over life and death$
+Merostomata$
+used in some classifications; includes the orders Xiphosura and Eurypterida$
+carrier_pigeon$
+a homing pigeon used to carry messages$
+chimney_swift$
+American swift that nests in e.g. unused chimneys$
+oilbird$
+nocturnal fruit-eating bird of South America that has fatty young yielding an oil that is used instead of butter$
+marabou$
+the downy feathers of marabou storks are used for trimming garments$
+invertebrate$
+any animal lacking a backbone or notochord; the term is not used as a scientific classification$
+red_coral$
+corals of especially the Mediterranean having pink or red color used for ornaments and jewelry$
+earthworm$
+terrestrial worm that burrows into and helps aerate soil; often surfaces when the ground is cool or wet; used as bait by anglers$
+END
