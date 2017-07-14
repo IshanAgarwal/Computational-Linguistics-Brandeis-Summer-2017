@@ -1,0 +1,315 @@
+siding
+
+a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass
+
+telic role: store rolling stock  
+wood_nettle
+
+American perennial herb found in rich woods and provided with stinging hairs; provides fibers used for textiles
+
+telic role: making textiles
+surveying_instrument
+
+an instrument used by surveyors
+
+telic role: by surveyors
+lab_coat
+
+a light coat worn to protect clothing from substances used while working in a laboratory
+
+telic role: protect clothing from substances
+tuning_fork
+
+a metal implement with two prongs that gives a fixed tone when struck; used to tune musical instruments
+
+telic role: tune musical instruments
+cufflink
+
+jewelry consisting of one of a pair of linked buttons used to fasten the cuffs of a shirt
+
+telic role: fasten the cuffs of a shirt
+pilot_balloon
+
+meteorological balloon used to observe air currents
+
+telic role: observe air currents
+lumpfish
+
+clumsy soft thick-bodied northern Atlantic fish with pelvic fins fused into a sucker; edible roe used for caviar
+
+telic role: for caviar
+lorry
+
+a large truck designed to carry heavy loads; usually without sides
+
+telic role: carry heavy loads
+pool_ball
+
+ball used in playing pool
+
+telic role: playing pool
+data_input_device
+
+a device that can be used to insert data into a computer or other computational device
+
+telic role: insert data into a computer
+woodcut
+
+engraving consisting of a block of wood with a design cut into it; used to make prints
+
+telic role: to make prints
+crate
+
+a rugged box (usually made of wood); used for shipping
+
+telic role: for shipping
+troop_carrier
+
+any land or sea or air vehicle designed to carry troops
+
+telic role: carry troops
+armor_plate
+
+specially hardened steel plate used to protect fortifications or vehicles from enemy fire
+
+telic role: protect fortifications or vehicles
+brick_trowel
+
+a trowel used in masonry
+
+telic role: in masonry
+stink_bomb
+
+a small bomb designed to give off a foul odor when it explodes
+
+telic role: give off a foul odour
+prolonge
+
+a rope fitted with a hook and used for towing a gun carriage
+
+telic role: towing a gun carriage
+alimentary_tract_smear
+
+any of several cytologic smears obtained from different parts of the alimentary tract; obtained by specialized lavage techniques and used mainly to diagnose cancer in those parts
+
+telic role: to diagnose cancer
+blue_elder
+
+shrub or small tree of western United States having white flowers and blue berries; fruit used in wines and jellies
+
+telic role: making wines and jellies
+halftone
+
+an engraving used to reproduce an illustration
+
+telic role: reproduce an illustration
+destroyer_escort
+
+warship smaller than a destroyer; designed to escort fleets or convoys
+
+telic role: escort fleets or convoys
+handsaw
+
+a saw used with one hand for cutting wood
+
+telic role: cutting wood
+tier
+
+something that is used for tying
+
+telic role: for tying
+haulm
+
+stems of beans and peas and potatoes and grasses collectively as used for thatching and bedding
+
+telic role: thatching and bedding
+hammer
+
+a heavy metal sphere attached to a flexible wire; used in the hammer throw
+
+telic role: the hammer throw
+weapon
+
+any instrument or instrumentality used in fighting or hunting
+
+telic role: fighting or hunting
+alidade
+
+surveying instrument used with a plane table for drawing lines of sight on a distant object and for measuring angles
+
+telic role: drawing lines of sight and measuirng angles
+chain_tongs
+
+a pipe wrench used for turning large pipes; an adjustable chain circles the pipe with its ends connected to the head whose teeth engage the pipe
+
+telic role: turning large pipes
+router
+
+a power tool with a shaped cutter; used in carpentry for cutting grooves
+
+telic role: in carpentry for cutting grooves
+reseau
+
+a network of fine lines used by astronomers as a reference for measurements on star photographs
+
+telic role: refernce for measurements on star photographs
+brake
+
+a restraint used to slow or stop a vehicle
+
+telic role: slow or stop a vehicle
+sunlamp
+
+a mercury-vapor lamp used in medical or cosmetic treatments
+
+telic role: medical or cosmetic treatments
+spindle
+
+a stick or pin used to twist the yarn in spinning
+
+telic role: twist the yarn in spinning
+pipeline
+
+a pipe used to transport liquids or gases
+
+telic role: transport liquids or gases
+toothbrush_tree
+
+glabrous or pubescent evergreen shrub or tree of the genus Salvadora; twigs are fibrous and in some parts of the world are bound together in clusters and used as a toothbrush; shoots are used as camel fodder; plant ash provides salt
+
+telic role: as a toothbrush or camel fodder
+workhorse
+
+a horse used for plowing and hauling and other heavy labor
+
+telic role: plowing and hauling and other heavy labour
+balsa
+
+forest tree of lowland Central America having a strong very light wood; used for making floats and rafts and in crafts
+
+telic role: making floats and rafts
+Rolodex
+
+(trademark) a desktop rotary card index with removable cards; usually used for names, addresses, and telephone numbers
+
+telic role: storing names, addresses and telephone numbers
+modem
+
+(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line
+
+telic role: connect computers by a telephone line
+croquet_mallet
+
+a mallet used to strike the ball in croquet
+
+telic role: strike the ball
+set_decoration
+
+a decoration used as part of the set of a theatrical or movie production
+
+telic role: as part of the set 
+crest
+
+(heraldry) in medieval times, an emblem used to decorate a helmet
+
+telic role: decrate a helmet
+C_battery
+
+battery used to maintain the grid potential in a vacuum tube
+
+telic role: maintain the grid potential in a vaccum tube
+magnetic_needle
+
+a slender magnet suspended in a magnetic compass on a mounting with little friction; used to indicate the direction of the earth's magnetic pole
+
+telic role: indicatethe direction of the earth's magnetic pole
+lyre
+
+a harp used by ancient Greeks for accompaniment
+
+telic role: by ancient Greeks fo accompaniment 
+tambour
+
+a frame made of two hoops; used for embroidering
+
+telic role: for embroidering
+grey_skate
+
+common European skate used as food
+
+telic role: as food
+ayapana
+
+low spreading tropical American shrub with long slender leaves used to make a mildly stimulating drink resembling tea; sometimes placed in genus Eupatorium
+
+telic role: make a mildly stimulating drink
+terminus
+
+(architecture) a statue or a human bust or an animal carved out of the top of a square pillar; originally used as a boundary marker in ancient Rome
+
+telic role: boundary marker in ancient Rome
+tail_gate
+
+a gate downstream from a lock or canal that is used to control the flow of water at the lower end
+
+telic role: control the flow of water at the lower end
+softball
+
+ball used in playing softball
+
+telic role: playing softball
+wagon
+
+a child's four-wheeled toy cart sometimes used for coasting
+
+telic role: for coasting
+horseradish
+
+the root of the horseradish plant; it is grated or ground and used for seasoning
+
+telic role: for seasoning
+rattan
+
+climbing palm of Sri Lanka and southern India remarkable for the great length of the stems which are used for malacca canes
+
+telic role: making malacca canes
+commercial_art
+
+art used for commercial purposes (as in advertising)
+
+telic role: for comercial purposes
+nainsook
+
+a soft lightweight muslin used especially for babies
+
+telic role: for babies
+shadow_box
+
+a shallow rectangular box with a transparent front used to protect and display small items (jewelry, coins, etc.)
+
+telic role:protect and display small items
+Siberian_crab
+
+Asian wild crab apple cultivated in many varieties for it small acid usually red fruit used for preserving
+
+telic role: for preserving
+active_matrix_screen
+
+a type of LCD screen used for some portable computers; there is a separate circuit for each pixel
+
+telic role: in some portable computers
+tin_plate
+
+a thin sheet of metal (iron or steel) coated with tin to prevent rusting; used especially for cans, pots, and tins
+
+telic role: in cans pots and tins to prevent rusting
+lapboard
+
+writing board used on the lap as a table or desk
+
+telic role: on the lap as a table or desk
+calendula
+
+any of numerous chiefly annual herbs of the genus Calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes
+
+telic role: medicinal and culinary purposes
